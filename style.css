@@ -1,0 +1,141 @@
+@media (min-width: 200px){body {background: #d0dbe1; }
+}
+
+.header img {
+  float: left;
+  width: 120px;
+  height: 120px;
+  background: #d0dbe1;
+  background-color: #d0dbe1;
+}
+
+.header h1 {
+  position: relative;
+  top: 40px;
+  left: 30px;
+
+}
+
+a 	{ color:#d0dbe1;
+	font-family: sans-serif;
+	font-size: 15pt; 
+	text-decoration: none;}
+
+h1 	{font-family: sans-serif;
+	font-size: 35pt; }
+
+h2 	{font-family: sans-serif;}
+
+h3	{font-family: sans-serif;}
+
+p 	{font-family: sans-serif;
+	font-size: 14pt;}
+
+.content p  {font-family: sans-serif;
+  font-size: 13pt;}
+
+
+
+.nav {padding-top: 40px }
+
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #63889c;
+}
+
+.nav li {
+    float: left;
+}
+
+.nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav li a:hover:not(.active) {
+    background-color: #506d7c;
+}
+
+.active {
+    background-color: #28363e;
+}
+
+.academic p {font-size: 20pt;
+padding-bottom: 10px}
+
+.academic a {
+    margin: 10px;
+    padding: 20px;
+    overflow: hidden;
+    background-color: #63889c;
+    color: white;
+    font-size: 16pt;
+    display: inline;
+    
+}
+
+.academic a:hover:not(.active) {
+    background-color: #506d7c;
+}
+
+.labs p {font-size: 16pt;}
+
+.labs li {font-family: sans-serif;
+  font-size: 16pt;}
+
+hr {
+  border-top: 3px double #8c8b8b;
+}
+
+
+.academicbuttons a {
+    margin: 10px;
+    padding: 20px;
+    overflow: hidden;
+    background-color: #63889c;
+    color: white;
+    font-size: 16pt;
+    display: inline;
+    
+}
+
+.academicbuttons a:hover:not(.active) {
+    background-color: #506d7c;
+}
+
+.sidebar {float: right;
+border-left: 3px double #8c8b8b;
+width: 21%;
+padding-bottom: 8.5%;
+padding-top: 1%;}
+
+.sidebar h2 { color: #63889c;
+font-size: 14pt;}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 5px;
+}
+
+th {
+    background-color: #92acb9;
+}
+
+.ms li {font-family: sans-serif;
+  font-size: 14pt;}
+
+.contact h2 { color: #63889c;
+font-size: 14pt;}
